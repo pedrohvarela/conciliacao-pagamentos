@@ -10,3 +10,5 @@ pagamentos passam pelo Asaas, então estar em apenas uma das bases nem sempre é
 
 Hoje eu bato as duas linha a linha, conferindo uma a uma se o registro está nos dois lados.
 Sem essa conferência, cliente que já pagou recebe cobrança e cliente que deve passa batido.
+
+Encontrei 214 casos com mascara, 521 Casos Limpos, 4 malformados, 11 em branco ja que o value.count() ignorou eles
